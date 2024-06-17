@@ -1,0 +1,38 @@
+name: Update readme
+on:
+  schedule: 
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  activity-update:
+    name: Update activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update with about me
+        run: python main.py
+
+      - name: Commit and push changes
+        run: |
+          git pull
+          git config --global user.name "Github actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Update README"
+          git push
