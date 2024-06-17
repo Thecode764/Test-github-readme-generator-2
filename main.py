@@ -46,12 +46,11 @@ url = f"https://api.github.com/users/{username}"
 
 response = requests.get(url)
 
-if response.status_code == 200:
-    data = response.json()
-    bio = data["bio"]
-    public_repos = data["public_repos"]
-    followers = data["followers"]
-    following = data["following"]
+data = response.json()
+bio = data["bio"]
+public_repos = data["public_repos"]
+followers = data["followers"]
+following = data["following"]
 
 out = f"""
 <h1 align="center">{name}</h1>
