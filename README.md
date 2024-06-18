@@ -30,7 +30,7 @@ Need an idea |
 
 - 📂 I created 71 public repositories
 
-- 👤 My followers number is 31
+- 👤 My followers number is 32
 
 - 👤 I follow 73 users
 
