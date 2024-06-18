@@ -19,14 +19,7 @@
 
 - ℹ️ My Bio: | Hmmmmmm i am a robot! 🤖 
 
-Robots can create a website, or design frontend? or code??
-
-No i am a human :octocat: 
-
-A web developer
-
-
-Need an idea |
+Robots can create a website, or design frontend? or code?? no i'm human |
 
 - 📂 I created 71 public repositories
 
