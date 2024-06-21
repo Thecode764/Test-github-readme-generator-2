@@ -25,7 +25,7 @@ Robots can create a website, or design frontend? or code?? no i'm human |
 
 - 👤 My followers number is 34
 
-- 👤 I follow 76 users
+- 👤 I follow 77 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
