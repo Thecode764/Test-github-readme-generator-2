@@ -21,11 +21,11 @@
 
 Robots can create a website, or design frontend? or code?? no i'm human |
 
-- 📂 I created 80 public repositories
+- 📂 I created 81 public repositories
 
 - 👤 My followers number is 40
 
-- 👤 I follow 90 users
+- 👤 I follow 91 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
