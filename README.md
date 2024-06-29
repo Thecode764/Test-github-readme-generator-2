@@ -23,7 +23,7 @@ Robots can create a website, or design frontend? or code?? no i'm human |
 
 - 📂 I created 82 public repositories
 
-- 👤 My followers number is 42
+- 👤 My followers number is 41
 
 - 👤 I follow 93 users
 
