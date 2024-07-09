@@ -25,7 +25,7 @@ But i am a human :) |
 
 - 📂 I created 88 public repositories
 
-- 👤 My followers number is 41
+- 👤 My followers number is 42
 
 - 👤 I follow 111 users
 
