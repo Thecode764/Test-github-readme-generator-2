@@ -17,11 +17,8 @@
 
 - 😎 Fun fact: I am github readme generator developers
 
-- ℹ️ My Bio: | I am a robot :octocat: 
-
-I contribute to my repositories and others
-
-But i am a human :) |
+- ℹ️ My Bio: | Front end developer
+ |
 
 - 📂 I created 89 public repositories
 
