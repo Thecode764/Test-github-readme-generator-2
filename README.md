@@ -20,11 +20,11 @@
 - ℹ️ My Bio: | Front end developer
  |
 
-- 📂 I created 100 public repositories
+- 📂 I created 101 public repositories
 
 - 👤 My followers number is 56
 
-- 👤 I follow 197 users
+- 👤 I follow 198 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
