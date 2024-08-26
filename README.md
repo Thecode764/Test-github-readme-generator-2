@@ -15,7 +15,7 @@
 
 - 😄 Pronouns: Male
 
-- 😎 Fun fact: I am github readme generator developers
+- 😎 Fun fact: I am github readme generator developer
 
 - ℹ️ My Bio: | Front end developer
  |
