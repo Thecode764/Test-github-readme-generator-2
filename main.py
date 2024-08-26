@@ -26,7 +26,7 @@ username = "Thecode764"
 pronouns = "Male"
 
 # Fun fact about you
-fun_fact = "I am github readme generator developers"
+fun_fact = "I am github readme generator developer"
 
 # What you are know?
 know = "html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress"
