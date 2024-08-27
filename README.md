@@ -20,7 +20,7 @@
 - ℹ️ My Bio: | Front end developer
  |
 
-- 📂 I created 102 public repositories
+- 📂 I created 101 public repositories
 
 - 👤 My followers number is 79
 
