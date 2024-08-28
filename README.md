@@ -17,14 +17,13 @@
 
 - 😎 Fun fact: I am github readme generator developer
 
-- ℹ️ My Bio: | Front end developer
- |
+- ℹ️ My Bio: | Front end developer. @vercel fan, I love @nextjs , linux fan, i use @pnpm , i use @tailwindlabs, i use @primer  |
 
 - 📂 I created 102 public repositories
 
-- 👤 My followers number is 80
+- 👤 My followers number is 79
 
-- 👤 I follow 242 users
+- 👤 I follow 243 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
