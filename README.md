@@ -21,9 +21,9 @@
 
 - 📂 I created 103 public repositories
 
-- 👤 My followers number is 90
+- 👤 My followers number is 91
 
-- 👤 I follow 270 users
+- 👤 I follow 271 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
