@@ -21,7 +21,7 @@
 
 - 📂 I created 105 public repositories
 
-- 👤 My followers number is 113
+- 👤 My followers number is 114
 
 - 👤 I follow 324 users
 
