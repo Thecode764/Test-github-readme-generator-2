@@ -19,11 +19,11 @@
 
 - ℹ️ My Bio: | Front end developer. @vercel fan, I love @nextjs , linux fan, i use @pnpm , i use @tailwindlabs, i use @primer  |
 
-- 📂 I created 105 public repositories
+- 📂 I created 104 public repositories
 
-- 👤 My followers number is 120
+- 👤 My followers number is 119
 
-- 👤 I follow 330 users
+- 👤 I follow 331 users
 
 <h3 align="center">Tech stack</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,vim,vscode,git,c,php,python,go,bash,github,pycharm,flask,django,linux,neovim,bootstrap,tailwind,arch,debian,ubuntu,electron,dart,markdown,mint,figma,sublime,mysql,react,ruby,discord,powershell,wordpress">
